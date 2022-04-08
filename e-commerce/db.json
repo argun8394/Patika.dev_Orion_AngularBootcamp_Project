@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Phone",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+      "imageUrl": "https://i0.wp.com/shiftdelete.net/wp-content/uploads/2022/03/samsung-3-model-daha-one-ui-4-1-aldi.jpg?resize=768%2C432&ssl=1",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "name": "PC",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+      "imageUrl": "https://i0.wp.com/shiftdelete.net/wp-content/uploads/2022/01/lenovo-yoga-slim-pro-7i-inceleme.jpeg?w=1600&ssl=1",
+      "price": 200
+    },
+    {
+      "id": 3,
+      "name": "TV",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+      "imageUrl": "https://i0.wp.com/shiftdelete.net/wp-content/uploads/2022/01/Philips-65OLED80612-4K-OLED-Android-TV-o%CC%88zellikleri.jpeg?w=1600&ssl=1",
+      "price": 300
+    },
+    {
+      "id": 4,
+      "name": "PlayStation",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+      "imageUrl": "https://i0.wp.com/shiftdelete.net/wp-content/uploads/2022/02/sony-ps4-ve-ps5-icin-yeni-beta-guncellemesi-yayinladi.jpg?w=1280&ssl=1",
+      "price": 400
+    },
+    {
+      "id": 5,
+      "name": "Car",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+      "imageUrl": "https://i0.wp.com/shiftdelete.net/wp-content/uploads/2022/04/honda-ve-gm-elektrikli-otomobil.jpg?resize=768%2C432&ssl=1",
+      "price": 500
+    },
+    {
+      "id": 6,
+      "name": "Game",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+      "imageUrl": "https://i0.wp.com/shiftdelete.net/wp-content/uploads/2022/03/Call-of-Duty-Vanguard.jpg?w=1280&ssl=1",
+      "price": 600
+    }
+  ],
+  "wishList": [],
+  "cart": [
+
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
