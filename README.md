@@ -11,7 +11,7 @@
 * Font Awesome
 
 ## Getting Started
-Run npm i or npm install to install all packages then You should use ng serve --o.
+Run npm i or npm install to install all packages then You should use ng serve --o.<br>
 Run db.json you should use json-server --watch db.json.
 
 ## Prerequisites
