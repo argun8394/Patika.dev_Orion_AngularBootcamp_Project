@@ -1,23 +1,24 @@
-#  e-commerce Patika.dev_Orion_AngularBootcamp_Project
+# ecommerce
 
 ## Used Packages And Modules
-+AppRoutingModule<br>
-+HttpClientModule <br>
-+FormsModule<br>
-+FormsModule<br>
-+Font Awesome<br>
-+Bootstrap 5<br>
-+Font Awesome<br>
+* AppRoutingModule
+* HttpClientModule
+* FormsModule
+* FormsModule
+* Rxjs
+* Font Awesome
+* Bootstrap 5
+* Font Awesome
 
 ## Getting Started
-Run npm i or npm install to install all packages then You should use ng serve --o.<br>
-Run db.json json-server --watch db.json 
+Run npm i or npm install to install all packages then You should use ng serve --o.
+Run db.json you should use json-server --watch db.json.
 
 ## Prerequisites
-npm<br>
-Angular 13<br>
-Bootstrap 5<br>
-Vs Code<br>
+* npm
+* Angular 13
+* Bootstrap 5
+* Vs Code
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
